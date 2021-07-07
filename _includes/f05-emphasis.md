@@ -1,9 +1,9 @@
 # Attributes
 
 **Programming languages**
- _Python_
- _Java_
- _C_
+_Python_
+_Java_
+_C_
         
 **Skills**
 _Willingness to learn_
