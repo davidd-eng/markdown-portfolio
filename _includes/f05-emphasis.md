@@ -9,3 +9,6 @@ _C_
 _Willingness to learn_
 _Adaptability_
 _Resilience_
+_Confidence_
+_Initiative_
+_Optimism_
